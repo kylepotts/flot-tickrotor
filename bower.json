@@ -1,0 +1,27 @@
+{
+  "name": "flot-tickrotor",
+  "version": "1.0",
+  "homepage": "https://github.com/kylepotts/flot-tickrotor",
+  "authors": [
+    "Kyle Potts <kyle@kptechblog.com>"
+  ],
+  "description": "Flot plugin to display angled X-axis tick labels.",
+  "keywords": [
+    "flot"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flot": "~0.8.3"
+  },
+  "main": "jquery.flot.tickrotor.js",
+  "moduleType": [
+    "globals"
+  ]
+}
